@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomBasic_1</string>
+    <string name="insert">INSERT</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="CLEAR">CLEAR</string>
+    <string name="DELETE">DELETE</string>
+    <string name="SELECT">SELECT</string>
+</resources>
